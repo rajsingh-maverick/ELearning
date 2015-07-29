@@ -1,0 +1,7 @@
+D:\Projects\ELearning\ELearning.BAL\bin\Debug\ELearning.BAL.dll
+D:\Projects\ELearning\ELearning.BAL\bin\Debug\ELearning.BAL.pdb
+D:\Projects\ELearning\ELearning.BAL\bin\Debug\ELearning.Model.dll
+D:\Projects\ELearning\ELearning.BAL\bin\Debug\ELearning.Model.pdb
+D:\Projects\ELearning\ELearning.BAL\obj\Debug\ELearning.BAL.csprojResolveAssemblyReference.cache
+D:\Projects\ELearning\ELearning.BAL\obj\Debug\ELearning.BAL.dll
+D:\Projects\ELearning\ELearning.BAL\obj\Debug\ELearning.BAL.pdb
