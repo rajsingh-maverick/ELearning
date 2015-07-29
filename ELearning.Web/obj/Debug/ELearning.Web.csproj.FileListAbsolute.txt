@@ -2,6 +2,7 @@ D:\Projects\ELearning\ELearning.Web\bin\ELearning.Web.dll.config
 D:\Projects\ELearning\ELearning.Web\bin\ELearning.Web.dll
 D:\Projects\ELearning\ELearning.Web\bin\ELearning.Web.pdb
 D:\Projects\ELearning\ELearning.Web\bin\Antlr3.Runtime.dll
+D:\Projects\ELearning\ELearning.Web\bin\ELearning.BAL.dll
 D:\Projects\ELearning\ELearning.Web\bin\ELearning.Model.dll
 D:\Projects\ELearning\ELearning.Web\bin\EntityFramework.dll
 D:\Projects\ELearning\ELearning.Web\bin\EntityFramework.SqlServer.dll
@@ -20,7 +21,10 @@ D:\Projects\ELearning\ELearning.Web\bin\Microsoft.Owin.Security.Twitter.dll
 D:\Projects\ELearning\ELearning.Web\bin\Microsoft.Web.Infrastructure.dll
 D:\Projects\ELearning\ELearning.Web\bin\Newtonsoft.Json.dll
 D:\Projects\ELearning\ELearning.Web\bin\Owin.dll
+D:\Projects\ELearning\ELearning.Web\bin\System.Net.Http.Formatting.dll
 D:\Projects\ELearning\ELearning.Web\bin\System.Web.Helpers.dll
+D:\Projects\ELearning\ELearning.Web\bin\System.Web.Http.dll
+D:\Projects\ELearning\ELearning.Web\bin\System.Web.Http.WebHost.dll
 D:\Projects\ELearning\ELearning.Web\bin\System.Web.Mvc.dll
 D:\Projects\ELearning\ELearning.Web\bin\System.Web.Optimization.dll
 D:\Projects\ELearning\ELearning.Web\bin\System.Web.Razor.dll
@@ -28,11 +32,15 @@ D:\Projects\ELearning\ELearning.Web\bin\System.Web.WebPages.Deployment.dll
 D:\Projects\ELearning\ELearning.Web\bin\System.Web.WebPages.dll
 D:\Projects\ELearning\ELearning.Web\bin\System.Web.WebPages.Razor.dll
 D:\Projects\ELearning\ELearning.Web\bin\WebGrease.dll
+D:\Projects\ELearning\ELearning.Web\bin\ELearning.BAL.pdb
 D:\Projects\ELearning\ELearning.Web\bin\ELearning.Model.pdb
 D:\Projects\ELearning\ELearning.Web\bin\EntityFramework.xml
 D:\Projects\ELearning\ELearning.Web\bin\EntityFramework.SqlServer.xml
 D:\Projects\ELearning\ELearning.Web\bin\Microsoft.AspNet.Identity.Core.xml
 D:\Projects\ELearning\ELearning.Web\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Projects\ELearning\ELearning.Web\bin\System.Net.Http.Formatting.xml
+D:\Projects\ELearning\ELearning.Web\bin\System.Web.Http.xml
+D:\Projects\ELearning\ELearning.Web\bin\System.Web.Http.WebHost.xml
 D:\Projects\ELearning\ELearning.Web\bin\System.Web.Helpers.xml
 D:\Projects\ELearning\ELearning.Web\bin\System.Web.Mvc.xml
 D:\Projects\ELearning\ELearning.Web\bin\System.Web.Optimization.xml
@@ -55,11 +63,3 @@ D:\Projects\ELearning\ELearning.Web\bin\Microsoft.Owin.Security.MicrosoftAccount
 D:\Projects\ELearning\ELearning.Web\obj\Debug\ELearning.Web.csprojResolveAssemblyReference.cache
 D:\Projects\ELearning\ELearning.Web\obj\Debug\ELearning.Web.dll
 D:\Projects\ELearning\ELearning.Web\obj\Debug\ELearning.Web.pdb
-D:\Projects\ELearning\ELearning.Web\bin\ELearning.BAL.dll
-D:\Projects\ELearning\ELearning.Web\bin\System.Net.Http.Formatting.dll
-D:\Projects\ELearning\ELearning.Web\bin\System.Web.Http.dll
-D:\Projects\ELearning\ELearning.Web\bin\System.Web.Http.WebHost.dll
-D:\Projects\ELearning\ELearning.Web\bin\ELearning.BAL.pdb
-D:\Projects\ELearning\ELearning.Web\bin\System.Net.Http.Formatting.xml
-D:\Projects\ELearning\ELearning.Web\bin\System.Web.Http.xml
-D:\Projects\ELearning\ELearning.Web\bin\System.Web.Http.WebHost.xml

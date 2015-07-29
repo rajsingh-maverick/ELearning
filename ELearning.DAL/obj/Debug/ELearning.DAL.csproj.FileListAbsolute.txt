@@ -1,4 +1,3 @@
-D:\Projects\ELearning\ELearning.DAL\obj\Debug\ELearning.DAL.csprojResolveAssemblyReference.cache
 D:\Projects\ELearning\ELearning.DAL\bin\Debug\ELearning.DAL.dll.config
 D:\Projects\ELearning\ELearning.DAL\bin\Debug\ELearning.DAL.dll
 D:\Projects\ELearning\ELearning.DAL\bin\Debug\ELearning.DAL.pdb
@@ -12,7 +11,8 @@ D:\Projects\ELearning\ELearning.DAL\bin\Debug\EntityFramework.xml
 D:\Projects\ELearning\ELearning.DAL\bin\Debug\EntityFramework.SqlServer.xml
 D:\Projects\ELearning\ELearning.DAL\bin\Debug\Microsoft.AspNet.Identity.Core.xml
 D:\Projects\ELearning\ELearning.DAL\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
-D:\Projects\ELearning\ELearning.DAL\obj\Debug\ELearning.DAL.dll
-D:\Projects\ELearning\ELearning.DAL\obj\Debug\ELearning.DAL.pdb
+D:\Projects\ELearning\ELearning.DAL\obj\Debug\ELearning.DAL.csprojResolveAssemblyReference.cache
 D:\Projects\ELearning\ELearning.DAL\obj\Debug\ELearning.DAL.Migrations.CreateDB.resources
 D:\Projects\ELearning\ELearning.DAL\obj\Debug\ELearning.DAL.csproj.GenerateResource.Cache
+D:\Projects\ELearning\ELearning.DAL\obj\Debug\ELearning.DAL.dll
+D:\Projects\ELearning\ELearning.DAL\obj\Debug\ELearning.DAL.pdb
