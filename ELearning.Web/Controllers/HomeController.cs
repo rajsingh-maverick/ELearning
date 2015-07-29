@@ -1,4 +1,5 @@
-﻿using System;
+﻿using ELearning.Model;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Web;
@@ -10,6 +11,15 @@ namespace ELearning.Web.Controllers
     {
         public ActionResult Index()
         {
+            try
+            {
+
+            }
+            catch(Exception ex)
+            {
+
+            }
+           
             return View();
         }
 
