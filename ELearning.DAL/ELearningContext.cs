@@ -11,8 +11,7 @@ using System.Threading.Tasks;
 namespace ELearning.DAL
 {
        public class ApplicationUser : IdentityUser
-        {
-            
+        {            
             public string EmailId { get; set; }
             public int Age { get; set; }
         }
@@ -22,6 +21,7 @@ namespace ELearning.DAL
             public ELearningContext()
                 : base("ELearningConnection")
             {
+                this.Configuration.LazyLoadingEnabled = true;
             }
                 public DbSet<Question> Questions { get; set; }
                 public DbSet<Option> Options { get; set; }

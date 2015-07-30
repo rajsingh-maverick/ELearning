@@ -251,10 +251,17 @@
       <Project>{ad68be4f-955a-4611-8ba3-8158ade3b318}</Project>
       <Name>ELearning.BAL</Name>
     </ProjectReference>
+    <ProjectReference Include="..\ELearning.DAL\ELearning.DAL.csproj">
+      <Project>{d7aa318d-0a09-4a78-846a-f4f161d7e703}</Project>
+      <Name>ELearning.DAL</Name>
+    </ProjectReference>
     <ProjectReference Include="..\ELearning.Model\ELearning.Model.csproj">
       <Project>{90a0aed2-4b5f-4596-8dee-765fa50f5db3}</Project>
       <Name>ELearning.Model</Name>
     </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>

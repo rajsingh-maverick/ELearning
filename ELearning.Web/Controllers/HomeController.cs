@@ -1,4 +1,7 @@
-﻿using ELearning.Model;
+﻿using ELearning.DAL;
+using ELearning.Model;
+using ELearning.Model.Enums;
+using ELearning.Model.Poco;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -11,15 +14,6 @@ namespace ELearning.Web.Controllers
     {
         public ActionResult Index()
         {
-            try
-            {
-
-            }
-            catch(Exception ex)
-            {
-
-            }
-           
             return View();
         }
 
