@@ -1,0 +1,9 @@
+E:\Projects\ELearning\ELearning.Model\bin\Release\ELearning.Model.dll.config
+E:\Projects\ELearning\ELearning.Model\bin\Release\ELearning.Model.dll
+E:\Projects\ELearning\ELearning.Model\bin\Release\ELearning.Model.pdb
+E:\Projects\ELearning\ELearning.Model\bin\Release\EntityFramework.dll
+E:\Projects\ELearning\ELearning.Model\bin\Release\EntityFramework.SqlServer.dll
+E:\Projects\ELearning\ELearning.Model\bin\Release\EntityFramework.xml
+E:\Projects\ELearning\ELearning.Model\bin\Release\EntityFramework.SqlServer.xml
+E:\Projects\ELearning\ELearning.Model\obj\Release\ELearning.Model.dll
+E:\Projects\ELearning\ELearning.Model\obj\Release\ELearning.Model.pdb

@@ -7,3 +7,13 @@ D:\Projects\ELearning\ELearning.Model\bin\Debug\EntityFramework.xml
 D:\Projects\ELearning\ELearning.Model\bin\Debug\EntityFramework.SqlServer.xml
 D:\Projects\ELearning\ELearning.Model\obj\Debug\ELearning.Model.dll
 D:\Projects\ELearning\ELearning.Model\obj\Debug\ELearning.Model.pdb
+E:\Projects\ELearning\ELearning.Model\bin\Debug\ELearning.Model.dll.config
+E:\Projects\ELearning\ELearning.Model\bin\Debug\ELearning.Model.dll
+E:\Projects\ELearning\ELearning.Model\bin\Debug\ELearning.Model.pdb
+E:\Projects\ELearning\ELearning.Model\bin\Debug\EntityFramework.dll
+E:\Projects\ELearning\ELearning.Model\bin\Debug\EntityFramework.SqlServer.dll
+E:\Projects\ELearning\ELearning.Model\bin\Debug\EntityFramework.xml
+E:\Projects\ELearning\ELearning.Model\bin\Debug\EntityFramework.SqlServer.xml
+E:\Projects\ELearning\ELearning.Model\obj\Debug\ELearning.Model.csprojResolveAssemblyReference.cache
+E:\Projects\ELearning\ELearning.Model\obj\Debug\ELearning.Model.dll
+E:\Projects\ELearning\ELearning.Model\obj\Debug\ELearning.Model.pdb

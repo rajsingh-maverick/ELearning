@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="http://test.com:2040/site" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^E:\\Projects\\ELearning\\ELearning\.Web\\obj\\Release\\Package\\PackageTmp$" />
+    <parameterEntry kind="ProviderPath" scope="setAcl" match="^E:\\Projects\\ELearning\\ELearning\.Web\\obj\\Release\\Package\\PackageTmp$" />
+  </parameter>
+  <parameter name="ELearningConnection-Web.config Connection String" description="ELearningConnection Connection String used in web.config by the application to access the database." value="data source=PADMALOCHAN\SQLEXPRESS;Initial Catalog=ELearning;Integrated Security=SSPI;" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="E:\\Projects\\ELearning\\ELearning\.Web\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='ELearningConnection']/@connectionString" />
+  </parameter>
+  <parameter name="ELearning.DAL.ELearningContext-Web.config Connection String" description="ELearning.DAL.ELearningContext Connection String used in web.config by the application to access the database." value="ELearning.DAL.ELearningContext_ConnectionString" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="E:\\Projects\\ELearning\\ELearning\.Web\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='ELearning.DAL.ELearningContext']/@connectionString" />
+  </parameter>
+</parameters>
